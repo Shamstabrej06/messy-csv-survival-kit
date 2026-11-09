@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Editors / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Local full-file download (the 2,000-row sample is committed instead)
+listings.csv
+listings.csv.gz
+
+# NOTE: outputs/ is intentionally committed in this project — the step
+# files, clean table, quarantine file, database and scorecard are the
+# deliverables learners inspect.
