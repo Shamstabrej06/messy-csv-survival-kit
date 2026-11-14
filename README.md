@@ -105,7 +105,6 @@ messy-csv-survival-kit/
 │   └── raw/listings_sample_2000.csv   # first 2,000 rows, untouched
 ├── docs/
 │   ├── data_quality_report.md # full diagnosis with real counts
-│   └── upwork_portfolio.md    # portfolio copy for Upwork / LinkedIn
 ├── lessons/                   # one beginner lesson per cleaning step
 ├── src/                       # one runnable script per lesson
 ├── outputs/                   # step files, clean table, quarantine, SQLite DB, scorecard
